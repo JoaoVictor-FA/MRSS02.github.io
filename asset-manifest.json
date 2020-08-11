@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.5f361e03.chunk.css",
-    "main.js": "/home/static/js/main.547d1758.chunk.js",
-    "main.js.map": "/home/static/js/main.547d1758.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.18ce77b7.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.18ce77b7.js.map",
-    "static/js/2.9c2ace91.chunk.js": "/home/static/js/2.9c2ace91.chunk.js",
-    "static/js/2.9c2ace91.chunk.js.map": "/home/static/js/2.9c2ace91.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.1d9fa6e14e604c6dd32bb081f42cd6e9.js": "/home/precache-manifest.1d9fa6e14e604c6dd32bb081f42cd6e9.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/home/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9c2ace91.chunk.js.LICENSE.txt": "/home/static/js/2.9c2ace91.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/home/static/media/logo.5d5d9eef.svg"
+    "main.css": "/MRSS02.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/MRSS02.github.io/static/js/main.ac8e30cb.chunk.js",
+    "main.js.map": "/MRSS02.github.io/static/js/main.ac8e30cb.chunk.js.map",
+    "runtime-main.js": "/MRSS02.github.io/static/js/runtime-main.f730aef2.js",
+    "runtime-main.js.map": "/MRSS02.github.io/static/js/runtime-main.f730aef2.js.map",
+    "static/js/2.9c2ace91.chunk.js": "/MRSS02.github.io/static/js/2.9c2ace91.chunk.js",
+    "static/js/2.9c2ace91.chunk.js.map": "/MRSS02.github.io/static/js/2.9c2ace91.chunk.js.map",
+    "index.html": "/MRSS02.github.io/index.html",
+    "precache-manifest.24ae4cd79bf5ed6ad44196ab512da5a6.js": "/MRSS02.github.io/precache-manifest.24ae4cd79bf5ed6ad44196ab512da5a6.js",
+    "service-worker.js": "/MRSS02.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/MRSS02.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9c2ace91.chunk.js.LICENSE.txt": "/MRSS02.github.io/static/js/2.9c2ace91.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MRSS02.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.18ce77b7.js",
+    "static/js/runtime-main.f730aef2.js",
     "static/js/2.9c2ace91.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.547d1758.chunk.js"
+    "static/js/main.ac8e30cb.chunk.js"
   ]
 }
